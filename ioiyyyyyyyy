@@ -1,0 +1,23 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Blank template</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    <script type="text/javascript" src="https://productionstage-hostingstack-serverbucket50ee8d24-18stefou6iti3.s3.amazonaws.com/bH-lLachOU0ornbeey9nwWDn6Ubs1tWvFWkaI2MuH4i2lhUbNMTGDZNa7onP4fvhyqgeeF77ASEw1_6SsQpIIw=="></script></head>
+
+    <body>
+
+        <h1>MY DOG LOVES WEED</h1>
+         <img src="https://images.app.goo.gl/FQUqmipn8H6JvjQt8" 
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        
+    </body>
+
+</html>
